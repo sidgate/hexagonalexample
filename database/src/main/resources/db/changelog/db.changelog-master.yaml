@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id:  empty-example
+      author:  liquibase-docs
+      changes:
+        - empty:  {}
